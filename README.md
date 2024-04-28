@@ -1,6 +1,6 @@
 # Costco-Performance-Analysis
 
-##Overview
+## Overview
 
 The Costco Performance Dashboard provides a detailed view of the company's key metrics for the year 2014, compared to 2013. Let's break down the insights and recommendations:
 1. Sales and Profit Overview:
@@ -15,7 +15,7 @@ The Costco Performance Dashboard provides a detailed view of the company's key m
 4. Monthly Sales Trend:
    A noticeable spike in both sales and profit occured during October.
 
-##Recommendations
+## Recommendations
 1. Focus on High-Performing Countries:
    USA and Canada are leading in sales. Enhance marketing strategies in these regions.
    Investigate why Germany performed well and consider replicating successful approaches in other European countries.
